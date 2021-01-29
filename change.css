@@ -1,0 +1,16 @@
+body{
+    background-image: url('moroccan-flower.png');
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+h2{
+    color: #FFBC00;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: "Passion One";
+}
+ul{
+    list-style-type: none;
+}
+
